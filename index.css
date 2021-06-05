@@ -1,6 +1,10 @@
+body {
+    background-color: rgb(68, 223, 54);
+}
 h1 {
     color: blue;
     text-align: center;
+    font-style: italic;
   }
 p {
     font-family: sans-serif;
@@ -8,3 +12,8 @@ p {
 ul {
     line-height: 40px;
   }
+em{
+    font-size: 20px;
+    color: red;
+    font-weight: 800;
+}
